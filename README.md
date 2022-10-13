@@ -31,10 +31,10 @@
 ## 3. 구성도
 
 * 프로젝트 진행 과정
-![프로젝트 구성도](./docs/diagram.png)
+![프로젝트 구성도](./docs/image/diagram.png)
 
 * 대표모델 구조
-![대표모델 구조](./docs/layout.png)
+![대표모델 구조](./docs/image/layout.png)
 
 * 개발 환경
   * **TensorFlow + Keras**: 딥러닝 학습모델 제작을 위한 수단
