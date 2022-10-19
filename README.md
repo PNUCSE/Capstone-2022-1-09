@@ -43,7 +43,7 @@
 
 ## 4. 소개 및 시연 영상
 
-(동영상 링크)
+[![졸업과제 소개 영상](http://img.youtube.com/vi/E1qdw2pNBSg/0.jpg)](https://www.youtube.com/watch?v=E1qdw2pNBSg)    
 
 ## 5. 사용법
 
